@@ -7,8 +7,11 @@ import Useroutput from './useroutput'
 export const App = () => {
   return (
     <div>
-        <Userinput></Userinput>
+     
         <Useroutput></Useroutput>
+        <Useroutput></Useroutput>
+        <Useroutput></Useroutput>
+        <Userinput></Userinput>
     </div>
   )
 }
